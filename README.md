@@ -42,8 +42,9 @@ Join us:
      * Its moderated [announcement mailing list](https://lists.w3.org/Archives/Public/public-webassembly-announce/)
      * Its [open-ended public discussion mailing list](https://lists.w3.org/Archives/Public/public-webassembly/)
 
- * On IRC: `irc://irc.w3.org:6667/#webassembly`
+ * On IRC: `irc://irc.w3.org:6667/#webassembly` or Matrix.org IRC Bridge: `https://matrix.to/#/#webassembly:_w3c_`
  * On Stack Overflow's [#webassembly tag](https://stackoverflow.com/questions/tagged/webassembly#)
+ * On Mastadon.Social: `https://mastodon.social/web/tags/wasm`
  * By [contributing](Contributing.md)!
 
 When contributing, please follow our [Code of Ethics and Professional Conduct](CodeOfConduct.md).
